@@ -1,0 +1,15 @@
+{
+  "name": "js-data-syncano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adapter.js",
+  "scripts": {},
+  "dependencies": {
+    "syncano": "^0.4.7"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-runtime": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-2": "^6.5.0"
+  }
+}
